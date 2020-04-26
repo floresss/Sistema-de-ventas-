@@ -1,0 +1,26 @@
+*
+{
+    margin: 15px;
+    padding: 15px;
+}
+
+body {
+    background: orange;
+    font-family: tipográfica, calibri, Verdana, 'Book Antiqua';
+}
+
+#cuerpo {
+    background: #0000ff;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: white;
+}
+
+#TITULO {
+    background: #0000ff;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: white
+}
